@@ -1,0 +1,135 @@
+.s41{
+    position: absolute;
+    left: 195px;
+    font-size: 50px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+    top: 285px;
+}
+
+.s41 em{
+    font-style: normal;
+    position: absolute;
+    left: 325px;
+    font-size: 50px;
+    color: #fa4e09;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+    bottom: 1px;
+}
+
+.t42 {
+    font-style: normal;
+    position: relative;
+    margin-left: 120px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.bd4{
+    font-style: normal;
+    position: relative;
+    margin-left: 115px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+    font-size: 15px;
+    background: transparent;
+    border: none !important;
+    cursor: pointer;
+}
+
+.asa{
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+}
+
+.dC1{
+    margin-top: -14px;
+}
+
+.dialog{
+    color: black;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+}
+
+.dialogT{
+    color: black;
+    text-align: center;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+}
+
+.chckA{
+    position: relative;
+    left: 120px;
+    margin-top: 20px;
+}
+
+.chckACB{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: 3px;
+    left: 20px;
+    z-index: 4;
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.chckAText{
+    font-style: normal;
+    position: relative;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    /*left: 40px;*/
+    /*bottom: 31px;*/
+    right: 10px;
+}
+
+.buttons4{
+    position: relative;
+    left: 800px;
+    color: white;
+    background-color: #fa4e09;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    padding: 15px;
+    border-radius: 32px;
+    cursor: pointer;
+    width: 225px;
+    /*margin-bottom: 50px;*/
+    top: 20px;
+    margin-bottom: 50px;
+}
+
+.op{
+    opacity: 50%;
+}
+
+.bi3{
+    left: 25px;
+    position: relative;
+    top: 5px;
+}
+
+.img3{
+    position: absolute;
+    left: 1000px;
+    bottom: 15px;
+}

@@ -1,0 +1,83 @@
+.s31{
+    position: absolute;
+    left: 195px;
+    font-size: 50px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+    top: 285px;
+}
+
+.s31 em{
+    font-style: normal;
+    position: absolute;
+    left: 300px;
+    font-size: 50px;
+    color: #fa4e09;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+    bottom: 1px;
+}
+
+.ei{
+    margin-left: 35px;
+    top: 8px;
+    position: relative;
+}
+
+.t33 {
+    font-style: normal;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: normal;
+    width: 900px;
+    top: 13px;
+    margin-left: 120px;
+
+}
+
+.t32{
+    font-style: normal;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: normal;
+}
+
+.b31{
+    background-color: transparent;
+    position: relative;
+    color: white;
+    font-size: 20px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+}
+
+.buttons3{
+    position: relative;
+    left: 750px;
+    color: white;
+    background-color: #fa4e09;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    padding: 15px;
+    border-radius: 32px;
+    cursor: pointer;
+    width: 225px;
+    margin-bottom: 30px;
+}
+
+.em3{
+    font-style: normal;
+    position: relative;
+    font-size: 17px;
+    color: red;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bold;
+    top: 5px;
+}

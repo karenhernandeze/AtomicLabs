@@ -1,0 +1,180 @@
+.st1bg {
+    overflow-y: scroll;
+    overflow-x: scroll;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    background: url("/src/img/formSub.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #062348;
+}
+
+.progressbar {
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    top: 200px;
+    width: 900px;
+    margin-top: 250px;
+    margin-left: 120px;
+}
+
+.progressbar>h1 {
+    background-color: #fa4e09;
+    width: 15%;
+    height: 14px;
+    border-radius: 10px;
+}
+
+.progressbar>h2{
+    background-color: #fa4e09;
+    width: 37%;
+    height: 14px;
+    border-radius: 10px;
+}
+
+.progressbar>h3{
+    background-color: #fa4e09;
+    width: 59%;
+    height: 14px;
+    border-radius: 10px;
+}
+
+.progressbar>h4{
+    background-color: #fa4e09;
+    width: 82%;
+    height: 14px;
+    border-radius: 10px;
+}
+
+.progressNum {
+    position: relative;
+    top: 175px;
+    left: 230px;
+}
+
+.progressNum li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+}
+
+.one {
+    left: 0px;
+    width: 30px;
+}
+
+.two {
+    left: 200px;
+    width: 30px;
+}
+
+.three {
+    left: 400px;
+    width: 30px;
+}
+
+.four {
+    left: 600px;
+    width: 30px;
+}
+
+.oneTwo{
+    margin-left: 120px;
+    margin-top: 22px;
+    width: 55px;
+    height: auto;
+}
+
+.t1{
+    position: absolute;
+    left: 195px;
+    font-size: 50px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+    top: 257px;
+}
+
+.t1 em{
+    font-style: normal;
+    position: absolute;
+    left: 375px;
+    font-size: 50px;
+    color: #fa4e09;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bolder;
+    bottom: 1px;
+}
+
+.t2 {
+    font-style: normal;
+    position: relative;
+    padding-top: 30px;
+    margin-left: 120px;
+    font-size: 25px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: normal;
+    bottom: 1px;
+    width: 900px;
+}
+
+.t3{
+    font-style: normal;
+    position: relative;
+    font-size: 20px;
+    color: white;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bold;
+}
+
+.d2{
+    padding-top: 20px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.txtbx1{
+    /*margin-left: 60px;*/
+    background-color: white;
+    border-radius: 6px;
+    width: 460px;
+    height: 50px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.img1{
+    position: absolute;
+    left: 975px;
+    bottom: 78px;
+}
+
+.em{
+    font-style: normal;
+    position: relative;
+    font-size: 17px;
+    color: red;
+    font-family: arial,ｍｓ ｐゴシック,ms pgothic,돋움,dotum,helvetica,sans-serif;
+    font-weight: bold;
+    top: 5px;
+}
+
+.buttons1{
+    width: 250px;
+    position: relative;
+    left: 750px;
+    color: white;
+    background-color: #fa4e09;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    padding: 15px;
+    border-radius: 32px;
+    cursor: pointer;
+}
