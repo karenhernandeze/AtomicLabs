@@ -12,6 +12,11 @@
     background-color: #062348;
 }
 
+.example::-webkit-scrollbar {
+    display: none;
+}
+
+
 .progressbar {
     background-color: white;
     border-radius: 10px;

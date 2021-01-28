@@ -39,8 +39,8 @@ class Footer extends Component {
 
     render() {
         return(
-            <div>
-                <div className="f1">
+            <div className="f1">
+                <div >
                     <p className="txtF1">© 2020 AtomicLabs. Todos los derechos reservados.
                         <em onClick={this.handleOpen}>Aviso de privacidad</em>
                         <a href="https://www.linkedin.com/company/atomic-mexico/" target="_blank">

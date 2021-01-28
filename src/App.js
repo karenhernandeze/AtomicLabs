@@ -14,7 +14,7 @@ const App = () => {
     return (
         <Router>
             <Switch>
-                <div className="main fill-height-95">
+                <div className="main fill-height-95 example">
 
                     <Route exact path="/" to="/main" component={MainView} />
                     <Route exact path="/main" component={MainView} />
@@ -38,8 +38,6 @@ const App = () => {
                     {/*CONFIRMATION VIEW*/}
                     <Route exact path="/confirmation" component={Confirmation} />
                     {/*CONFIRMATION VIEW*/}
-                    <Route exact path="/test" component={Footer} />
-
 
                 </div>
             </Switch>

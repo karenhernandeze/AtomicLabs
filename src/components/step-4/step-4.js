@@ -87,7 +87,7 @@ class StepFour extends Component {
         })((props) => <Checkbox color="default" {...props} />);
 
         return (
-            <div className="st1bg">
+            <div className="st1bg example">
                 <Logo/>
 
                 {/*ORDER PICTURES OF 1-2-3-4 --- PROGRESS BAR*/}

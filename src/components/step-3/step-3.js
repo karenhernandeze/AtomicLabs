@@ -86,7 +86,7 @@ class StepThree extends Component {
 
     render() {
         return (
-            <div className="st1bg">
+            <div className="st1bg example">
                 <Logo/>
 
                 {/*ORDER PICTURES OF 1-2-3-4 --- PROGRESS BAR*/}
