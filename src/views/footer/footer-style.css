@@ -1,26 +1,33 @@
 .f1{
-    max-width: 1500px;
-    height: 110px;
+    width: 1450px;
     background-color: black;
     color: white;
     position: relative;
-    bottom: 0;
-    /*width: 100%;*/
-    width: 100vw;
-    padding: 0;
-    /*background: url("/src/img/formSub.png");*/
-    /*background-position: center;*/
-    /*background-repeat: no-repeat;*/
-    background-size: cover;
-    /*background-color: #062348;*/
+    margin: 20px 0 0 0;
+    outline: 0;
+    height: 110px;
 }
 
-.txtF1{
+.f2{
     position: relative;
-    top: 20px;
+    padding: 0;
+    background-size: cover;
+    height: 110px;
+}
+
+
+
+.txtF1{
+    float: left;
+    position: relative;
+    top: 26px;
     left: 110px;
     font-weight: 800;
     font-size: 18px;
+    width: 1300px;
+    overflow-x: hidden;
+    margin: 0;
+    height: 60px;
 }
 
 .txtF1 em{
